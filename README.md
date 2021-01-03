@@ -23,18 +23,19 @@ A more accurate solution is the “Upright Pro”, which is a thumb-size tracker
 Another solution is the “Lumo Lift”, which is a peanut size tracker that clips onto one’s clothes below their collarbone. It wirelessly syncs with one’s smartphone and tracks their posture. The tracker uses an accelerometer that detects any change in posture (Lumo). On average, users report that it recognizes bad posture approximately 80% of the time. However, users report that it is more intrusive, uncomfortable, and noticeable because it must be placed on the front of one’s shirt (Raphael, 2017). 
 
 ## Sources
-100% Chiropractic. (2019). How bad posture can impact your health. Retrieved October 18, 2020, from https://100percentchiropractic.com/how-bad-posture-can-impact-your-health/
+100% Chiropractic. (2019). How bad posture can impact your health. Retrieved January 1, 2021, from https://100percentchiropractic.com/how-bad-posture-can-impact-your-health/
 
-Darma Inc. (2016). Darma: Sit smart for a healthy body and mind. Retrieved October 19, 2020, from https://www.kickstarter.com/projects/junhao/darma-sit-smart-for-a-healthy-body-and-mind
+Darma Inc. (2016). Darma: Sit smart for a healthy body and mind. Retrieved January 1, 2021, from https://www.kickstarter.com/projects/junhao/darma-sit-smart-for-a-healthy-body-and-mind
 
-Department of Health & Human Services. (2015). Computer-related injuries. Retrieved October 19, 2020, from https://www.betterhealth.vic.gov.au/health/healthyliving/computer-related-injuries
+Department of Health & Human Services. (2015). Computer-related injuries. Retrieved January 1, 2021, from https://www.betterhealth.vic.gov.au/health/healthyliving/computer-related-injuries
 
-Grohol, J. (2020). Changing our routines and habits. Retrieved October 18, 2020, from https://psychcentral.com/lib/changing-our-routines-and-habits
+Grohol, J. (2020). Changing our routines and habits. Retrieved January 1, 2021, from https://psychcentral.com/lib/changing-our-routines-and-habits
 Lumo. (n.d.). Lumo Lift. Retrieved October 19, 2020, from https://www.lumobodytech.com/lumo-lift/
 
-Raphael, R. (2017). I tried five high-tech solutions that promised to fix my terrible posture. Retrieved October 19, 2020, from https://www.fastcompany.com/40438857/i-tried-five-high-tech-solutions-that-promised-to-fix-my-terrible-posture-did-they-work
+Raphael, R. (2017). I tried five high-tech solutions that promised to fix my terrible posture. Retrieved January 1, 2021, from https://www.fastcompany.com/40438857/i-tried-five-high-tech-solutions-that-promised-to-fix-my-terrible-posture-did-they-work
 
-UPRIGHT. (2020). Everyday posture coaching. Retrieved October 19, 2020, from https://www.uprightpose.com/
-Your Body Posture. (2020). Why is it hard to maintain good posture. Retrieved October 19, 2020, from https://yourbodyposture.com/why-is-it-hard-to-maintain-good-posture/
+UPRIGHT. (2020). Everyday posture coaching. Retrieved January 1, 2021, from https://www.uprightpose.com/
+
+Your Body Posture. (2020). Why is it hard to maintain good posture. Retrieved January 1, 2021, from https://yourbodyposture.com/why-is-it-hard-to-maintain-good-posture/
 
 
