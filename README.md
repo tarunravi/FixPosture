@@ -14,7 +14,8 @@ If the algorithm deems that the user has bad posture, it sends out a computer no
 2. Edit `polishedPostureDetection.py` with the updated file path of the `haarcascade_frontalface_default.xml` classifier on `line 8`
 3. Download `cv2`, `sys`, `numpy`, `time`, `win10toast`. (You may already have some installed)
 4. Open the Python terminal at the location of `polishedPostureDetection.py` and run `pythonw .\polishedPostureDetection.py`
-(Technial Note, pythonw runs the program in the background. Use just python, if you don't want to run it on the background)
+
+(Technical Note, pythonw runs the program in the background. Use just python, if you don't want to run it on the background)
 
 ## More Details
 ### Health Problems From Bad Posture
