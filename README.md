@@ -30,7 +30,8 @@ Darma Inc. (2016). Darma: Sit smart for a healthy body and mind. Retrieved Janua
 Department of Health & Human Services. (2015). Computer-related injuries. Retrieved January 1, 2021, from https://www.betterhealth.vic.gov.au/health/healthyliving/computer-related-injuries
 
 Grohol, J. (2020). Changing our routines and habits. Retrieved January 1, 2021, from https://psychcentral.com/lib/changing-our-routines-and-habits
-Lumo. (n.d.). Lumo Lift. Retrieved October 19, 2020, from https://www.lumobodytech.com/lumo-lift/
+
+Lumo. (n.d.). Lumo Lift. January 1, 2021, from https://www.lumobodytech.com/lumo-lift/
 
 Raphael, R. (2017). I tried five high-tech solutions that promised to fix my terrible posture. Retrieved January 1, 2021, from https://www.fastcompany.com/40438857/i-tried-five-high-tech-solutions-that-promised-to-fix-my-terrible-posture-did-they-work
 
