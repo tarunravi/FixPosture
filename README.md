@@ -1,7 +1,7 @@
 # FixPosture
 Video Explanation: https://youtu.be/yLFGXckK9c8
 
-Created by Tarun Ravi during NewYearNewHack Hackathon
+Created by Tarun Ravi during CuHacks Hackathon
 ## The Problem
 In recent years, due to the advent of personal computing and consequently its rapid spread into consumer lives, more and more people spend time on computers. The increasing hours spent in front of computers leads to many developing bad sitting postures. This bad sitting posture leads to many serious negative consequences on one’s health. Therefore it is more important, now more than ever, to create a solution that prevents bad computer posture.
 
