@@ -1,5 +1,4 @@
 # FixPosture
-Video Explanation: https://youtu.be/yLFGXckK9c8
 
 Created by Tarun Ravi during CuHacks Hackathon
 ## The Problem
