@@ -1,6 +1,7 @@
 # FixPosture
 
 Video Demo: https://youtu.be/yLFGXckK9c8
+
 Website: https://fixposture.tech/
 
 ## The Problem
